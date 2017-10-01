@@ -2,6 +2,8 @@
 
 It is simple WPF desktop application - implementation and visualization of approximate algorithm that arranges tiles on a board of a fixed width. The objective is to provide the densest tiling.
 
+More information can be found in documentation folder.
+
 ## Purpose
 
 This project was developed during one of my courses at the University. It was a group project and it allowed me to get more practice in creating WPF desktop apllications and implementing algorithms.
