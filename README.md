@@ -1,6 +1,6 @@
 # Building Blocks
 
-It is simple WPF desptok application - implementation and visualization of approximate algorithm that arranges tiles on a board of a fixed width. The objective is to provide the densest tiling.
+It is simple WPF desktop application - implementation and visualization of approximate algorithm that arranges tiles on a board of a fixed width. The objective is to provide the densest tiling.
 
 ## Purpose
 
